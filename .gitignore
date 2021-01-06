@@ -127,3 +127,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+#data
+art_daily_jumpsdown.csv
+art_daily_jumpsup.csv
+art_daily_small_noise.csv
+
