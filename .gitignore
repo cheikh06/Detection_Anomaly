@@ -133,4 +133,4 @@ dmypy.json
 art_daily_jumpsdown.csv
 art_daily_jumpsup.csv
 art_daily_small_noise.csv
-
+art_daily_nojump.csv
